@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = SimpleDb::VERSION
   spec.authors       = ["David Muto"]
   spec.email         = ["david.muto@gmail.com"]
-  spec.description   = %q{An extremely simple in memory database}
+  spec.description   = %q{An extremely simple in memory database with support for simple transactions}
   spec.summary       = %q{Allows in-memory storage of simple values}
   spec.homepage      = ""
   spec.license       = "MIT"
