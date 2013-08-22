@@ -1,5 +1,7 @@
 # Simple Database
 
+[![Build Status](https://travis-ci.org/pseudomuto/ruby_simple_db.png)](https://travis-ci.org/pseudomuto/ruby_simple_db)
+
 This was a programming challenge I found online and thought I'd play around with. I've copied this origin problem here in the README in case you want to try it yourself (without using this code of course).
 
 ## Original Problem
